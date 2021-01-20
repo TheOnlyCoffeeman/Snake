@@ -1,0 +1,13 @@
+Length: 5 | Food: 0
+Length: 5 | Food: 0
+Length: 13 | Food: 8
+Length: 5 | Food: 0
+Length: 16 | Food: 11
+Length: 5 | Food: 0
+Length: 5 | Food: 0
+Length: 5 | Food: 0
+Length: 5 | Food: 0
+Length: 8 | Food: 3
+Length: 8 | Food: 3
+Length: 6 | Food: 1
+Length: 5 | Food: 0
